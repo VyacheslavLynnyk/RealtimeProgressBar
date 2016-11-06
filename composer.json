@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-0": {
+      "Models" : "app/models"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "0.3.*",
+    "ratchet/pawl": "^0.2.2"
+  }
+}
